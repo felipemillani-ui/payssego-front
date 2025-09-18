@@ -1,0 +1,2 @@
+A Payssego é uma plataforma tecnológica que oferece o serviço de 'salário sob demanda' (antecipação de salário) para colaboradores de empresas parceiras, utilizando o WhatsApp como interface. A empresa se posiciona como uma solução de bem-estar financeiro e educação financeira, não sendo uma instituição financeira. Eles buscam simplificar o processo de acesso a valores antecipados do salário, minimizando erros e garantindo rapidez e precisão nos cálculos.
+
