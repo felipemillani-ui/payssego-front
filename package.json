@@ -1,0 +1,36 @@
+{
+  "name": "payssego-front",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "qnaData.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipemillani-ui/payssego-front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipemillani-ui/payssego-front/issues"
+  },
+  "homepage": "https://github.com/felipemillani-ui/payssego-front#readme",
+  "dependencies": {
+    "lucide-react": "^0.544.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@vitejs/plugin-react": "^5.0.3",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "vite": "^7.1.6"
+  }
+}
